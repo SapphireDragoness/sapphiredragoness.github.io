@@ -1,2 +1,1 @@
-# saphex-lair
-# sapphiredragoness.github.io
+# Personal Blog
